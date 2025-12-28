@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/" 
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:georss="http://www.georss.org/georss">
+  <channel>
+    <title>{{ site.title }}</title>
+    <link>{{ site.url }}</link>
+    <language>ru</language>
+    <description>{{ site.description }}</description>
+    
+    {% for post in site.posts limit:500 %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      
+      <media:rating scheme="urn:simple">nonadult</media:rating>
+      
+      {% if post.categories.first %}
+      <category>{{ post.categories.first }}</category>
+      {% endif %}
+      
+      {% if post.header.image or post.image %}
+      <enclosure 
+        url="{{ site.url }}{{ post.header.image | default: post.image }}" 
+        type="image/jpeg"/>
+      {% endif %}
+      
+      <content:encoded>
+        <![CDATA[
+          {% if post.header.image or post.image %}
+          <figure>
+            <img src="{{ site.url }}{{ post.header.image | default: post.image }}" 
+                 alt="{{ post.title }}"
+                 style="max-width: 700px; width: 100%; height: auto;">
+          </figure>
+          {% endif %}
+          
+          {{ post.content }}
+        ]]>
+      </content:encoded>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

@@ -1,0 +1,7 @@
+# В корне проекта D:\dzen_zavod\prejekyll\site\.gitignore
+
+.bundle/
+vendor/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
