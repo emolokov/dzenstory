@@ -3,11 +3,11 @@ layout: single
 title: "Я сканировал наши фото и увидел в зеркале её бывшего с телефоном"
 date: 2025-12-24T17:15:36+00:00
 slug: ia-skaniroval-nashi-foto-i-uvidel-v-zerkale-eio-byvshego-s-telefonom
-images: /assets/posts/ia-skaniroval-nashi-foto-i-uvidel-v-zerkale-eio-byvshego-s-telefonom/image.jpg
+images: /dzenstory/assets/posts/ia-skaniroval-nashi-foto-i-uvidel-v-zerkale-eio-byvshego-s-telefonom/image.jpg
 header:
   teaser: /assets/posts/ia-skaniroval-nashi-foto-i-uvidel-v-zerkale-eio-byvshego-s-telefonom/image.jpg
 ---
-![cover](/assets/posts/ia-skaniroval-nashi-foto-i-uvidel-v-zerkale-eio-byvshego-s-telefonom/image.jpg)
+![cover](/dzenstory/assets/posts/ia-skaniroval-nashi-foto-i-uvidel-v-zerkale-eio-byvshego-s-telefonom/image.jpg)
 
 ## Пыль на стекле
 

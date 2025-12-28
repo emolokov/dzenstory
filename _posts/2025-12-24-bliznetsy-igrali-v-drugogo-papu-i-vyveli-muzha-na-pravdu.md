@@ -3,11 +3,11 @@ layout: single
 title: "Близнецы играли в «другого папу»… и вывели мужа на правду"
 date: 2025-12-24T16:21:41+00:00
 slug: bliznetsy-igrali-v-drugogo-papu-i-vyveli-muzha-na-pravdu
-images: /assets/posts/bliznetsy-igrali-v-drugogo-papu-i-vyveli-muzha-na-pravdu/image.jpg
+images: /dzenstory/assets/posts/bliznetsy-igrali-v-drugogo-papu-i-vyveli-muzha-na-pravdu/image.jpg
 header:
   teaser: /assets/posts/bliznetsy-igrali-v-drugogo-papu-i-vyveli-muzha-na-pravdu/image.jpg
 ---
-![cover](/assets/posts/bliznetsy-igrali-v-drugogo-papu-i-vyveli-muzha-na-pravdu/image.jpg)
+![cover](/dzenstory/assets/posts/bliznetsy-igrali-v-drugogo-papu-i-vyveli-muzha-na-pravdu/image.jpg)
 
 ## Карусель в ноябре
 

@@ -3,11 +3,11 @@ layout: single
 title: "Я вошла в гараж любовника — и увидела там машину моего мужа"
 date: 2025-12-24T16:18:28+00:00
 slug: ia-voshla-v-garazh-liubovnika-i-uvidela-tam-mashinu-moego-muzha
-images: /assets/posts/ia-voshla-v-garazh-liubovnika-i-uvidela-tam-mashinu-moego-muzha/image.jpg
+images: /dzenstory/assets/posts/ia-voshla-v-garazh-liubovnika-i-uvidela-tam-mashinu-moego-muzha/image.jpg
 header:
   teaser: /assets/posts/ia-voshla-v-garazh-liubovnika-i-uvidela-tam-mashinu-moego-muzha/image.jpg
 ---
-![cover](/assets/posts/ia-voshla-v-garazh-liubovnika-i-uvidela-tam-mashinu-moego-muzha/image.jpg)
+![cover](/dzenstory/assets/posts/ia-voshla-v-garazh-liubovnika-i-uvidela-tam-mashinu-moego-muzha/image.jpg)
 
 ## Запах чужого гаража
 

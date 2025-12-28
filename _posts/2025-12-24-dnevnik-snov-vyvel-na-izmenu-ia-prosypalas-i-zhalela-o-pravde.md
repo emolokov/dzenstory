@@ -3,11 +3,11 @@ layout: single
 title: "Дневник снов вывел на измену: я просыпалась и жалела о правде"
 date: 2025-12-24T16:46:01+00:00
 slug: dnevnik-snov-vyvel-na-izmenu-ia-prosypalas-i-zhalela-o-pravde
-images: /assets/posts/dnevnik-snov-vyvel-na-izmenu-ia-prosypalas-i-zhalela-o-pravde/image.jpg
+images: /dzenstory/assets/posts/dnevnik-snov-vyvel-na-izmenu-ia-prosypalas-i-zhalela-o-pravde/image.jpg
 header:
   teaser: /assets/posts/dnevnik-snov-vyvel-na-izmenu-ia-prosypalas-i-zhalela-o-pravde/image.jpg
 ---
-![cover](/assets/posts/dnevnik-snov-vyvel-na-izmenu-ia-prosypalas-i-zhalela-o-pravde/image.jpg)
+![cover](/dzenstory/assets/posts/dnevnik-snov-vyvel-na-izmenu-ia-prosypalas-i-zhalela-o-pravde/image.jpg)
 
 Глава 1. 
 

@@ -3,11 +3,11 @@ layout: single
 title: "Spotify выдал тайну: кто слушал “песни расставания” днём?"
 date: 2025-12-24T17:05:53+00:00
 slug: spotify-vydal-tainu-kto-slushal-pesni-rasstavaniia-dniom
-images: /assets/posts/spotify-vydal-tainu-kto-slushal-pesni-rasstavaniia-dniom/image.jpg
+images: /dzenstory/assets/posts/spotify-vydal-tainu-kto-slushal-pesni-rasstavaniia-dniom/image.jpg
 header:
   teaser: /assets/posts/spotify-vydal-tainu-kto-slushal-pesni-rasstavaniia-dniom/image.jpg
 ---
-![cover](/assets/posts/spotify-vydal-tainu-kto-slushal-pesni-rasstavaniia-dniom/image.jpg)
+![cover](/dzenstory/assets/posts/spotify-vydal-tainu-kto-slushal-pesni-rasstavaniia-dniom/image.jpg)
 
 Глава 1. Отчёт, который не должен был болеть
 

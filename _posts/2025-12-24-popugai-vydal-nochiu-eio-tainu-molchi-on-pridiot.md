@@ -3,11 +3,11 @@ layout: single
 title: "Попугай выдал ночью её тайну: «Молчи, он придёт!»"
 date: 2025-12-24T16:41:02+00:00
 slug: popugai-vydal-nochiu-eio-tainu-molchi-on-pridiot
-images: /assets/posts/popugai-vydal-nochiu-eio-tainu-molchi-on-pridiot/image.jpg
+images: /dzenstory/assets/posts/popugai-vydal-nochiu-eio-tainu-molchi-on-pridiot/image.jpg
 header:
   teaser: /assets/posts/popugai-vydal-nochiu-eio-tainu-molchi-on-pridiot/image.jpg
 ---
-![cover](/assets/posts/popugai-vydal-nochiu-eio-tainu-molchi-on-pridiot/image.jpg)
+![cover](/dzenstory/assets/posts/popugai-vydal-nochiu-eio-tainu-molchi-on-pridiot/image.jpg)
 
 ## Ночные слова
 

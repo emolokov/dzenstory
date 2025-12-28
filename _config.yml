@@ -7,8 +7,9 @@ lang: ru-RU
 # Для GitHub Pages обычно:
 # url: "https://USERNAME.github.io"
 # baseurl: "/REPO"
-url: ""
-baseurl: ""
+url: "https://emolokov.github.io"
+baseurl: "/dzenstory"
+
 
 # --- Theme ---
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"

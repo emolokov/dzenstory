@@ -3,11 +3,11 @@ layout: single
 title: "Её подруга по фитнесу отвела глаза… а я узнал её на фото коллеги"
 date: 2025-12-24T16:55:55+00:00
 slug: eio-podruga-po-fitnesu-otvela-glaza-a-ia-uznal-eio-na-foto-kollegi
-images: /assets/posts/eio-podruga-po-fitnesu-otvela-glaza-a-ia-uznal-eio-na-foto-kollegi/image.jpg
+images: /dzenstory/assets/posts/eio-podruga-po-fitnesu-otvela-glaza-a-ia-uznal-eio-na-foto-kollegi/image.jpg
 header:
   teaser: /assets/posts/eio-podruga-po-fitnesu-otvela-glaza-a-ia-uznal-eio-na-foto-kollegi/image.jpg
 ---
-![cover](/assets/posts/eio-podruga-po-fitnesu-otvela-glaza-a-ia-uznal-eio-na-foto-kollegi/image.jpg)
+![cover](/dzenstory/assets/posts/eio-podruga-po-fitnesu-otvela-glaza-a-ia-uznal-eio-na-foto-kollegi/image.jpg)
 
 ## Запах мела
 

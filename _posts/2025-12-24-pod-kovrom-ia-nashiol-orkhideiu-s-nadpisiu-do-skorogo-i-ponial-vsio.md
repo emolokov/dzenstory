@@ -3,11 +3,11 @@ layout: single
 title: "Под ковром я нашёл орхидею с надписью «До скорого» — и понял всё"
 date: 2025-12-24T17:42:08+00:00
 slug: pod-kovrom-ia-nashiol-orkhideiu-s-nadpisiu-do-skorogo-i-ponial-vsio
-images: /assets/posts/pod-kovrom-ia-nashiol-orkhideiu-s-nadpisiu-do-skorogo-i-ponial-vsio/image.jpg
+images: /dzenstory/assets/posts/pod-kovrom-ia-nashiol-orkhideiu-s-nadpisiu-do-skorogo-i-ponial-vsio/image.jpg
 header:
   teaser: /assets/posts/pod-kovrom-ia-nashiol-orkhideiu-s-nadpisiu-do-skorogo-i-ponial-vsio/image.jpg
 ---
-![cover](/assets/posts/pod-kovrom-ia-nashiol-orkhideiu-s-nadpisiu-do-skorogo-i-ponial-vsio/image.jpg)
+![cover](/dzenstory/assets/posts/pod-kovrom-ia-nashiol-orkhideiu-s-nadpisiu-do-skorogo-i-ponial-vsio/image.jpg)
 
 ## Пыль под ковром
 
