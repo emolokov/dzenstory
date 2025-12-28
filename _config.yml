@@ -26,3 +26,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 teaser: /assets/images/teaser.jpg
+
+feed_items: 100
