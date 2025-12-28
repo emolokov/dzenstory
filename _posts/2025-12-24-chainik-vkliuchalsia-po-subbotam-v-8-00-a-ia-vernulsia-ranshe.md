@@ -3,11 +3,11 @@ layout: single
 title: "Чайник включался по субботам в 8:00. А я вернулся раньше"
 date: 2025-12-24T17:25:16+00:00
 slug: chainik-vkliuchalsia-po-subbotam-v-8-00-a-ia-vernulsia-ranshe
-images: /dzenstory/assets/posts/chainik-vkliuchalsia-po-subbotam-v-8-00-a-ia-vernulsia-ranshe/image.jpg
+images: /assets/posts/chainik-vkliuchalsia-po-subbotam-v-8-00-a-ia-vernulsia-ranshe/image.jpg
 header:
   teaser: /assets/posts/chainik-vkliuchalsia-po-subbotam-v-8-00-a-ia-vernulsia-ranshe/image.jpg
 ---
-![cover](/dzenstory/assets/posts/chainik-vkliuchalsia-po-subbotam-v-8-00-a-ia-vernulsia-ranshe/image.jpg)
+![cover](/assets/posts/chainik-vkliuchalsia-po-subbotam-v-8-00-a-ia-vernulsia-ranshe/image.jpg)
 
 ## Восемь ноль-ноль
 

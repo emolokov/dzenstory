@@ -3,11 +3,11 @@ layout: single
 title: "Я нашёл её «Зимний лес» в кабинете шефа — и понял всё"
 date: 2025-12-24T17:09:06+00:00
 slug: ia-nashiol-eio-zimnii-les-v-kabinete-shefa-i-ponial-vsio
-images: /dzenstory/assets/posts/ia-nashiol-eio-zimnii-les-v-kabinete-shefa-i-ponial-vsio/image.jpg
+images: /assets/posts/ia-nashiol-eio-zimnii-les-v-kabinete-shefa-i-ponial-vsio/image.jpg
 header:
   teaser: /assets/posts/ia-nashiol-eio-zimnii-les-v-kabinete-shefa-i-ponial-vsio/image.jpg
 ---
-![cover](/dzenstory/assets/posts/ia-nashiol-eio-zimnii-les-v-kabinete-shefa-i-ponial-vsio/image.jpg)
+![cover](/assets/posts/ia-nashiol-eio-zimnii-les-v-kabinete-shefa-i-ponial-vsio/image.jpg)
 
 ## Нитка на пальцах
 

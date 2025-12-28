@@ -3,11 +3,11 @@ layout: single
 title: "Камера у двери транслировала на часы её “умершего” отца"
 date: 2025-12-24T16:34:33+00:00
 slug: kamera-u-dveri-translirovala-na-chasy-eio-umershego-ottsa
-images: /dzenstory/assets/posts/kamera-u-dveri-translirovala-na-chasy-eio-umershego-ottsa/image.jpg
+images: /assets/posts/kamera-u-dveri-translirovala-na-chasy-eio-umershego-ottsa/image.jpg
 header:
   teaser: /assets/posts/kamera-u-dveri-translirovala-na-chasy-eio-umershego-ottsa/image.jpg
 ---
-![cover](/dzenstory/assets/posts/kamera-u-dveri-translirovala-na-chasy-eio-umershego-ottsa/image.jpg)
+![cover](/assets/posts/kamera-u-dveri-translirovala-na-chasy-eio-umershego-ottsa/image.jpg)
 
 ## Камера “для спокойствия”
 

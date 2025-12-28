@@ -3,11 +3,11 @@ layout: single
 title: "Я нашёл в её мастерской десятки слепков рук — и понял, кто держит её"
 date: 2025-12-24T17:28:30+00:00
 slug: ia-nashiol-v-eio-masterskoi-desiatki-slepkov-ruk-i-ponial-kto-derzhit-eio
-images: /dzenstory/assets/posts/ia-nashiol-v-eio-masterskoi-desiatki-slepkov-ruk-i-ponial-kto-derzhit-eio/image.jpg
+images: /assets/posts/ia-nashiol-v-eio-masterskoi-desiatki-slepkov-ruk-i-ponial-kto-derzhit-eio/image.jpg
 header:
   teaser: /assets/posts/ia-nashiol-v-eio-masterskoi-desiatki-slepkov-ruk-i-ponial-kto-derzhit-eio/image.jpg
 ---
-![cover](/dzenstory/assets/posts/ia-nashiol-v-eio-masterskoi-desiatki-slepkov-ruk-i-ponial-kto-derzhit-eio/image.jpg)
+![cover](/assets/posts/ia-nashiol-v-eio-masterskoi-desiatki-slepkov-ruk-i-ponial-kto-derzhit-eio/image.jpg)
 
 ## Глина на пальцах
 

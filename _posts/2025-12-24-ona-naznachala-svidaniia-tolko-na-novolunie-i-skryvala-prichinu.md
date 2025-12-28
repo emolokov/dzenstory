@@ -3,11 +3,11 @@ layout: single
 title: "Она назначала свидания только на новолуние… и скрывала причину"
 date: 2025-12-24T16:59:08+00:00
 slug: ona-naznachala-svidaniia-tolko-na-novolunie-i-skryvala-prichinu
-images: /dzenstory/assets/posts/ona-naznachala-svidaniia-tolko-na-novolunie-i-skryvala-prichinu/image.jpg
+images: /assets/posts/ona-naznachala-svidaniia-tolko-na-novolunie-i-skryvala-prichinu/image.jpg
 header:
   teaser: /assets/posts/ona-naznachala-svidaniia-tolko-na-novolunie-i-skryvala-prichinu/image.jpg
 ---
-![cover](/dzenstory/assets/posts/ona-naznachala-svidaniia-tolko-na-novolunie-i-skryvala-prichinu/image.jpg)
+![cover](/assets/posts/ona-naznachala-svidaniia-tolko-na-novolunie-i-skryvala-prichinu/image.jpg)
 
 ## Новолуние в календаре
 

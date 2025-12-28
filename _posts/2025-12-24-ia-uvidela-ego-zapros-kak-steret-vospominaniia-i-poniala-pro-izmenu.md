@@ -3,11 +3,11 @@ layout: single
 title: "Я увидела его запрос: «Как стереть воспоминания» — и поняла про измену"
 date: 2025-12-24T17:31:43+00:00
 slug: ia-uvidela-ego-zapros-kak-steret-vospominaniia-i-poniala-pro-izmenu
-images: /dzenstory/assets/posts/ia-uvidela-ego-zapros-kak-steret-vospominaniia-i-poniala-pro-izmenu/image.jpg
+images: /assets/posts/ia-uvidela-ego-zapros-kak-steret-vospominaniia-i-poniala-pro-izmenu/image.jpg
 header:
   teaser: /assets/posts/ia-uvidela-ego-zapros-kak-steret-vospominaniia-i-poniala-pro-izmenu/image.jpg
 ---
-![cover](/dzenstory/assets/posts/ia-uvidela-ego-zapros-kak-steret-vospominaniia-i-poniala-pro-izmenu/image.jpg)
+![cover](/assets/posts/ia-uvidela-ego-zapros-kak-steret-vospominaniia-i-poniala-pro-izmenu/image.jpg)
 
 ## История браузера
 

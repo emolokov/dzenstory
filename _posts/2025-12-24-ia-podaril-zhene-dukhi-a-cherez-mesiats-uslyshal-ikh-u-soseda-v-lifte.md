@@ -3,11 +3,11 @@ layout: single
 title: "Я подарил жене духи… а через месяц услышал их у соседа в лифте"
 date: 2025-12-24T17:18:49+00:00
 slug: ia-podaril-zhene-dukhi-a-cherez-mesiats-uslyshal-ikh-u-soseda-v-lifte
-images: /dzenstory/assets/posts/ia-podaril-zhene-dukhi-a-cherez-mesiats-uslyshal-ikh-u-soseda-v-lifte/image.jpg
+images: /assets/posts/ia-podaril-zhene-dukhi-a-cherez-mesiats-uslyshal-ikh-u-soseda-v-lifte/image.jpg
 header:
   teaser: /assets/posts/ia-podaril-zhene-dukhi-a-cherez-mesiats-uslyshal-ikh-u-soseda-v-lifte/image.jpg
 ---
-![cover](/dzenstory/assets/posts/ia-podaril-zhene-dukhi-a-cherez-mesiats-uslyshal-ikh-u-soseda-v-lifte/image.jpg)
+![cover](/assets/posts/ia-podaril-zhene-dukhi-a-cherez-mesiats-uslyshal-ikh-u-soseda-v-lifte/image.jpg)
 
 ## Запах, который не забывают
 
