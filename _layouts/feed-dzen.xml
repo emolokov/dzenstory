@@ -25,6 +25,10 @@ layout: null
       <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
       <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <media:rating scheme="urn:simple">nonadult</media:rating>
+
+
+
 
       <!-- тип публикации для Дзена: черновик -->
       <category>native-draft</category>
@@ -35,11 +39,10 @@ layout: null
       {% endif %}
 
       <!-- обложка -->
-      {% assign cover = post.header.image | default: post.image %}
-      {% if cover %}
+      
       <enclosure url="{{ site.url }}{{ site.baseurl }}{{ cover }}"
                  type="image/jpeg" />
-      {% endif %}
+      
 
       <!-- полный контент -->
       <content:encoded><![CDATA[
