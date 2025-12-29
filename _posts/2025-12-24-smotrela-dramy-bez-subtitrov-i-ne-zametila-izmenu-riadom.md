@@ -3,6 +3,7 @@ layout: single
 title: "Смотрела драмы без субтитров — и не заметила измену рядом"
 date: 2025-12-24T17:45:21+00:00
 slug: smotrela-dramy-bez-subtitrov-i-ne-zametila-izmenu-riadom
+description: "testt"
 images: /assets/posts/smotrela-dramy-bez-subtitrov-i-ne-zametila-izmenu-riadom/image.jpg
 header:
   teaser: /assets/posts/smotrela-dramy-bez-subtitrov-i-ne-zametila-izmenu-riadom/image.jpg

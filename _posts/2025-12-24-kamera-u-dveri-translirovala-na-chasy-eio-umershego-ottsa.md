@@ -3,6 +3,7 @@ layout: single
 title: "Камера у двери транслировала на часы её “умершего” отца"
 date: 2025-12-24T16:34:33+00:00
 slug: kamera-u-dveri-translirovala-na-chasy-eio-umershego-ottsa
+description: "testt"
 images: /assets/posts/kamera-u-dveri-translirovala-na-chasy-eio-umershego-ottsa/image.jpg
 header:
   teaser: /assets/posts/kamera-u-dveri-translirovala-na-chasy-eio-umershego-ottsa/image.jpg

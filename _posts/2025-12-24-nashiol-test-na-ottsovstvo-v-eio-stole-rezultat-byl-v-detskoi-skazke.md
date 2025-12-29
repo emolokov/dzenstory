@@ -3,6 +3,7 @@ layout: single
 title: "Нашёл тест на отцовство в её столе — результат был в детской сказке"
 date: 2025-12-24T16:49:26+00:00
 slug: nashiol-test-na-ottsovstvo-v-eio-stole-rezultat-byl-v-detskoi-skazke
+description: "testt"
 images: /assets/posts/nashiol-test-na-ottsovstvo-v-eio-stole-rezultat-byl-v-detskoi-skazke/image.jpg
 header:
   teaser: /assets/posts/nashiol-test-na-ottsovstvo-v-eio-stole-rezultat-byl-v-detskoi-skazke/image.jpg

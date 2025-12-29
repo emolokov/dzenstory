@@ -3,6 +3,7 @@ layout: single
 title: "Я открыла любимый роман — и нашла на полях признание мужа"
 date: 2025-12-24T16:37:49+00:00
 slug: ia-otkryla-liubimyi-roman-i-nashla-na-poliakh-priznanie-muzha
+description: "testt"
 images: /assets/posts/ia-otkryla-liubimyi-roman-i-nashla-na-poliakh-priznanie-muzha/image.jpg
 header:
   teaser: /assets/posts/ia-otkryla-liubimyi-roman-i-nashla-na-poliakh-priznanie-muzha/image.jpg

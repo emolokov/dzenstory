@@ -3,6 +3,7 @@ layout: single
 title: "Нашёл в ящике сантехника вторую половинку её кулона. И понял всё"
 date: 2025-12-24T17:34:56+00:00
 slug: nashiol-v-iashchike-santekhnika-vtoruiu-polovinku-eio-kulona-i-ponial-vsio
+description: "testt"
 images: /assets/posts/nashiol-v-iashchike-santekhnika-vtoruiu-polovinku-eio-kulona-i-ponial-vsio/image.jpg
 header:
   teaser: /assets/posts/nashiol-v-iashchike-santekhnika-vtoruiu-polovinku-eio-kulona-i-ponial-vsio/image.jpg

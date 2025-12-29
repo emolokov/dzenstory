@@ -3,6 +3,7 @@ layout: single
 title: "Я думал, это сонный паралич… пока не увидел следы в спальне"
 date: 2025-12-24T16:15:14+00:00
 slug: ia-dumal-eto-sonnyi-paralich-poka-ne-uvidel-sledy-v-spalne
+description: "testt"
 images: /assets/posts/ia-dumal-eto-sonnyi-paralich-poka-ne-uvidel-sledy-v-spalne/image.jpg
 header:
   teaser: /assets/posts/ia-dumal-eto-sonnyi-paralich-poka-ne-uvidel-sledy-v-spalne/image.jpg

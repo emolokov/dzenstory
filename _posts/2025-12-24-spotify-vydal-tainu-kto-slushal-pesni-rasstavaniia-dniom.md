@@ -3,6 +3,7 @@ layout: single
 title: "Spotify выдал тайну: кто слушал “песни расставания” днём?"
 date: 2025-12-24T17:05:53+00:00
 slug: spotify-vydal-tainu-kto-slushal-pesni-rasstavaniia-dniom
+description: "testt"
 images: /assets/posts/spotify-vydal-tainu-kto-slushal-pesni-rasstavaniia-dniom/image.jpg
 header:
   teaser: /assets/posts/spotify-vydal-tainu-kto-slushal-pesni-rasstavaniia-dniom/image.jpg

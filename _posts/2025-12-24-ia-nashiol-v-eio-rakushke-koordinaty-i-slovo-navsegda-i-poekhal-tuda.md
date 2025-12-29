@@ -3,6 +3,7 @@ layout: single
 title: "Я нашёл в её ракушке координаты и слово «навсегда» — и поехал туда"
 date: 2025-12-24T16:11:58+00:00
 slug: ia-nashiol-v-eio-rakushke-koordinaty-i-slovo-navsegda-i-poekhal-tuda
+description: "testt"
 images: /assets/posts/ia-nashiol-v-eio-rakushke-koordinaty-i-slovo-navsegda-i-poekhal-tuda/image.jpg
 header:
   teaser: /assets/posts/ia-nashiol-v-eio-rakushke-koordinaty-i-slovo-navsegda-i-poekhal-tuda/image.jpg

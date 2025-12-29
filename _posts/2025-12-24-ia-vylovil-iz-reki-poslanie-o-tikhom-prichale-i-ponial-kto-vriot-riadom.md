@@ -3,6 +3,7 @@ layout: single
 title: "Я выловил из реки послание о «тихом причале» — и понял, кто врёт рядом"
 date: 2025-12-24T16:28:07+00:00
 slug: ia-vylovil-iz-reki-poslanie-o-tikhom-prichale-i-ponial-kto-vriot-riadom
+description: "testt"
 images: /assets/posts/ia-vylovil-iz-reki-poslanie-o-tikhom-prichale-i-ponial-kto-vriot-riadom/image.jpg
 header:
   teaser: /assets/posts/ia-vylovil-iz-reki-poslanie-o-tikhom-prichale-i-ponial-kto-vriot-riadom/image.jpg
