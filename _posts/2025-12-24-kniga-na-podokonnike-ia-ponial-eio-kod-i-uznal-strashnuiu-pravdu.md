@@ -3,7 +3,7 @@ layout: single
 title: "Книга на подоконнике: я понял её код и узнал страшную правду"
 date: 2025-12-24T17:22:03+00:00
 slug: kniga-na-podokonnike-ia-ponial-eio-kod-i-uznal-strashnuiu-pravdu
-description: "testt"
+description: "testjhjhjghkhkt"
 images: /assets/posts/kniga-na-podokonnike-ia-ponial-eio-kod-i-uznal-strashnuiu-pravdu/image.jpg
 header:
   teaser: /assets/posts/kniga-na-podokonnike-ia-ponial-eio-kod-i-uznal-strashnuiu-pravdu/image.jpg

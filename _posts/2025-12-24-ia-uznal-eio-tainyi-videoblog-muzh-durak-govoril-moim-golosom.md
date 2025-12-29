@@ -3,7 +3,7 @@ layout: single
 title: "Я узнал её тайный видеоблог: «муж-дурак» говорил моим голосом"
 date: 2025-12-24T17:02:21+00:00
 slug: ia-uznal-eio-tainyi-videoblog-muzh-durak-govoril-moim-golosom
-description: "testt"
+description: "testjhjhjghkhkt"
 images: /assets/posts/ia-uznal-eio-tainyi-videoblog-muzh-durak-govoril-moim-golosom/image.jpg
 header:
   teaser: /assets/posts/ia-uznal-eio-tainyi-videoblog-muzh-durak-govoril-moim-golosom/image.jpg

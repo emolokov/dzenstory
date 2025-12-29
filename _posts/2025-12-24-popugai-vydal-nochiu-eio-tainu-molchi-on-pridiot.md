@@ -3,7 +3,7 @@ layout: single
 title: "Попугай выдал ночью её тайну: «Молчи, он придёт!»"
 date: 2025-12-24T16:41:02+00:00
 slug: popugai-vydal-nochiu-eio-tainu-molchi-on-pridiot
-description: "testt"
+description: "testjhjhjghkhkt"
 images: /assets/posts/popugai-vydal-nochiu-eio-tainu-molchi-on-pridiot/image.jpg
 header:
   teaser: /assets/posts/popugai-vydal-nochiu-eio-tainu-molchi-on-pridiot/image.jpg

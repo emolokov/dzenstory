@@ -3,7 +3,7 @@ layout: single
 title: "Я снимала свою тень на закате — и она выдавала чужую правду"
 date: 2025-12-24T16:52:42+00:00
 slug: ia-snimala-svoiu-ten-na-zakate-i-ona-vydavala-chuzhuiu-pravdu
-description: "testt"
+description: "testjhjhjghkhkt"
 images: /assets/posts/ia-snimala-svoiu-ten-na-zakate-i-ona-vydavala-chuzhuiu-pravdu/image.jpg
 header:
   teaser: /assets/posts/ia-snimala-svoiu-ten-na-zakate-i-ona-vydavala-chuzhuiu-pravdu/image.jpg

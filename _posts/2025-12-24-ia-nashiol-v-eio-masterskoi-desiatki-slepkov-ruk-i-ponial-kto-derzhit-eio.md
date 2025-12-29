@@ -3,7 +3,7 @@ layout: single
 title: "Я нашёл в её мастерской десятки слепков рук — и понял, кто держит её"
 date: 2025-12-24T17:28:30+00:00
 slug: ia-nashiol-v-eio-masterskoi-desiatki-slepkov-ruk-i-ponial-kto-derzhit-eio
-description: "testt"
+description: "testjhjhjghkhkt"
 images: /assets/posts/ia-nashiol-v-eio-masterskoi-desiatki-slepkov-ruk-i-ponial-kto-derzhit-eio/image.jpg
 header:
   teaser: /assets/posts/ia-nashiol-v-eio-masterskoi-desiatki-slepkov-ruk-i-ponial-kto-derzhit-eio/image.jpg

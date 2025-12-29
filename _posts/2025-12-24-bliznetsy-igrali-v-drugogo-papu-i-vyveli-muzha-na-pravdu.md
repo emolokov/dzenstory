@@ -3,7 +3,7 @@ layout: single
 title: "Близнецы играли в «другого папу»… и вывели мужа на правду"
 date: 2025-12-24T16:21:41+00:00
 slug: bliznetsy-igrali-v-drugogo-papu-i-vyveli-muzha-na-pravdu
-description: "testt"
+description: "testjhjhjghkhkt"
 images: /assets/posts/bliznetsy-igrali-v-drugogo-papu-i-vyveli-muzha-na-pravdu/image.jpg
 header:
   teaser: /assets/posts/bliznetsy-igrali-v-drugogo-papu-i-vyveli-muzha-na-pravdu/image.jpg

@@ -3,7 +3,7 @@ layout: single
 title: "Я подарил ей зеркало… а оно показало чужую правду у подъезда"
 date: 2025-12-24T16:24:55+00:00
 slug: ia-podaril-ei-zerkalo-a-ono-pokazalo-chuzhuiu-pravdu-u-podezda
-description: "testt"
+description: "testjhjhjghkhkt"
 images: /assets/posts/ia-podaril-ei-zerkalo-a-ono-pokazalo-chuzhuiu-pravdu-u-podezda/image.jpg
 header:
   teaser: /assets/posts/ia-podaril-ei-zerkalo-a-ono-pokazalo-chuzhuiu-pravdu-u-podezda/image.jpg

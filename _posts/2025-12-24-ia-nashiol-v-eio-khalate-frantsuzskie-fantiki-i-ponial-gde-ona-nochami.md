@@ -3,7 +3,7 @@ layout: single
 title: "Я нашёл в её халате французские фантики — и понял, где она ночами"
 date: 2025-12-24T17:12:23+00:00
 slug: ia-nashiol-v-eio-khalate-frantsuzskie-fantiki-i-ponial-gde-ona-nochami
-description: "testt"
+description: "testjhjhjghkhkt"
 images: /assets/posts/ia-nashiol-v-eio-khalate-frantsuzskie-fantiki-i-ponial-gde-ona-nochami/image.jpg
 header:
   teaser: /assets/posts/ia-nashiol-v-eio-khalate-frantsuzskie-fantiki-i-ponial-gde-ona-nochami/image.jpg
